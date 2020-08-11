@@ -6,7 +6,7 @@ A simple Node-RED (http://nodered.org) node to perform operations on emails retr
 # Features
 
 * Leaves original payload unchanged
-* Optionally Adds lables to emails
+* Optionally Adds lables to emails (__GMail-only__ feature)
 * Optionally moves emails to a specified folder
 
 # Install
